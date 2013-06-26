@@ -51,6 +51,7 @@ syntax keyword qmakeVariable
 			\ PRECOMPILED_HEADER
 			\ PWD
 			\ OUT_PWD
+			\ OTHER_FILES
 			\ QMAKE
 			\ QMAKESPEC
 			\ QMAKE_APP_FLAG
