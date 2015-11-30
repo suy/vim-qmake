@@ -1,2 +1,2 @@
 setlocal commentstring=#%s
-setlocal formatoptions=-t
+setlocal formatoptions-=t
